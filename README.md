@@ -23,8 +23,8 @@
 <h2 align="center">My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDevLeal&show_icons=true&theme=radical&line_height=27" alt="Arthur's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDevLeal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Arthur's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDevLeal&show_icons=true&theme=transparent&line_height=27" alt="Arthur's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDevLeal&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0" alt="Arthur's GitHub Streak"/>
 </p>
 
 ```javascript
