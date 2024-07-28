@@ -1,6 +1,5 @@
 <img src="github-header-image.png" alt="Header"/>
 
-<h1 align="center">Olá! Meu nome é Arthur Leal Fernandes</h1>
 <p align="center">
   Sou estudante de programação há um ano e estou me dedicando ao desenvolvimento web, criando projetos que combinam funcionalidade e estética.
 </p>
