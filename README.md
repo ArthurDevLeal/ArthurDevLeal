@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Arthur Leal
-- 👀 I’m interested in Gym and Games
-- 🌱 I’m currently learning Html,CSS,TalwindCSS and JS
-- 📫 How to reach me @arthurlleall1 on Instagram
-- ⚡ Fun fact: Pr Squat: 220Lb
+![Header](BannerHeader.png)
 
-<!---
-ArthurDevLeal/ArthurDevLeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Olá!** Meu nome é **Arthur Leal Fernandes** e sou estudante de programação há um ano. Tenho me dedicado ao **desenvolvimento** **web**, criando projetos que combinam funcionalidade e estética.
+
+Além das habilidades técnicas, tenho facilidade para **trabalhar em equipe**, comunicar-me eficazmente e **resolver problemas**. Estou sempre em busca de aprender mais e contribuir para projetos inovadores.
+
+
+
+<h2 align="left">Languages and Tools:</h3>
+<ul>
+        <li><img src="html-5.png" alt="#"></li>
+        <li><img src="css-3.png" alt="#"></li>
+        <li><img src="tailwind-css.svg" alt="#"></li>
+        <li><img src="js.png" alt="#"></li>
+</ul>
