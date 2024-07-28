@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/ArthurDevLeal/ArthurDevLeal"/> 
-  <img src="https://badges.pufler.dev/repos/ArthurDevLeal"/>
-  <img src="https://badges.pufler.dev/commits/monthly/ArthurDevLeal" />
-</p>
-
-<p align="center">
-  <img src="github-header-image.png" alt="Header"/>
-</p>
+<img src="github-header-image.png" alt="Header"/>
 
 <h1 align="center">Olá! Meu nome é Arthur Leal Fernandes</h1>
 <p align="center">
