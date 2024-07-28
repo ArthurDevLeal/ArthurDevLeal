@@ -31,10 +31,8 @@
 ```javascript
 From: 16 January 2024 - To: 26 July 2024
 
-Total Time: 163 hrs 13 mins
-
-JavaScript       97 hrs 26 mins  >------------------------   59.50 %
-CSS              37 hrs 40 mins  >------------------------   27.40 %
-HTML             24 hrs 53 mins  >------------------------   11.56 %
-Other            1 hrs 57 mins   >------------------------   01.54 %
+JavaScript       117 hrs 26 mins  >------------------------   71.95%
+CSS              87 hrs 40 mins   >------------------------   53.72%
+HTML             44 hrs 53 mins   >------------------------   27.51%
+Other            10 hrs 57 mins   >------------------------    6.71%
 ```
