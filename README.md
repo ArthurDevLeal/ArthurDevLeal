@@ -4,10 +4,10 @@
 
 Além das habilidades técnicas, tenho facilidade para **trabalhar em equipe**, comunicar-me eficazmente e **resolver problemas**. Estou sempre em busca de aprender mais e contribuir para projetos inovadores.
 
-<div>
+<div style = "display = flex; flex = 1 1 1;">
   <a href="https://github.com/ArthurDevLeal">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDevLeal&theme=transparent&layout=donut-vertical"/>
-  <img height="400em" src="https://github-readme-stats.vercel.app/api?username=ArthurDevLeal&theme=transparent&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDevLeal&theme=transparent&layout=donut-vertical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDevLeal&theme=transparent&show_icons=true"/>
 </div>
 
 <h3>Tech Skills</h3>
