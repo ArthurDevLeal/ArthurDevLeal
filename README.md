@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
-</p>
-
-<p align="center">
   <img src="https://badges.pufler.dev/visits/ArthurDevLeal/ArthurDevLeal"/> 
   <img src="https://badges.pufler.dev/repos/ArthurDevLeal"/>
   <img src="https://badges.pufler.dev/commits/monthly/ArthurDevLeal" />
@@ -33,21 +29,24 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-  <a href="mailto:arthur.leal.fernandes@example.com">
-    <img src="https://img.shields.io/badge/-arthur.leal.fernandes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.leal.fernandes@example.com" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-leal-fernandes/">
-    <img src="https://img.shields.io/badge/-arthur_leal_fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-leal-fernandes/" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/arthurdevleal">
-    <img src="https://img.shields.io/badge/-arthurdevleal-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/arthurdevleal" alt="Twitter"/>
+  <a href="mailto:arthurDevLeal@gmail.com">
+    <img src="https://img.shields.io/badge/-arthur.leal.fernandes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurDevLeal@gmail.com" alt="Gmail"/>
   </a>
 </p>
 
 <h2 align="center">My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
-<p align="center">
-  <img src="https://github.com/ArthurDevLeal/ArthurDevLeal/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
+```javascript
+From: 16 January 2024 - To: 26 July 2024
+
+Total Time: 163 hrs 13 mins
+
+JavaScript       97 hrs 26 mins  >------------------------   59.50 %
+CSS              37 hrs 40 mins  >------------------------   27.40 %
+HTML             24 hrs 53 mins  >------------------------   11.56 %
+Other            1 hrs 57 mins   >------------------------   01.54 %
+```
+
 
 <h2 align="center">My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
@@ -59,10 +58,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDevLeal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Arthur's GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ArthurDevLeal&theme=redical" alt="Arthur's GitHub Activity Graph"/>
-</p>
-
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
