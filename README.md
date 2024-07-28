@@ -1,4 +1,4 @@
-![Header](BannerHeader.png)
+![Header](github-header-image.png)
 
 **Olá!** Meu nome é **Arthur Leal Fernandes** e sou estudante de programação há um ano. Tenho me dedicado ao **desenvolvimento** **web**, criando projetos que combinam funcionalidade e estética.
 
