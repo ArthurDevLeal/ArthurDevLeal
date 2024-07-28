@@ -8,8 +8,8 @@ Além das habilidades técnicas, tenho facilidade para **trabalhar em equipe**, 
 
 <h2 align="left">Languages and Tools:</h3>
 <ul>
-        <li><img src="html-5.png" alt="#"></li>
-        <li><img src="css-3.png" alt="#"></li>
-        <li><img src="tailwind-css.svg" alt="#"></li>
-        <li><img src="js.png" alt="#"></li>
+        <li><img src="html-5.png" alt="#" width="100px"></li>
+        <li><img src="css-3.png" alt="#" width="100px"></li>
+        <li><img src="tailwind-css.svg" alt="#" width="100px"></li>
+        <li><img src="js.png" alt="#" width="100px"></li>
 </ul>
