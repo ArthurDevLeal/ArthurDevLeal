@@ -1,4 +1,4 @@
-<img src="github-header-image.png" alt="Header"/>
+<img src="images/github-header-image.png" alt="Header"/>
 
 <p align="center">
   Sou estudante de programação há um ano e estou me dedicando ao desenvolvimento web, criando projetos que combinam funcionalidade e estética.
