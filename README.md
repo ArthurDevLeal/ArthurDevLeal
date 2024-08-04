@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt= "TypeScript"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://shields.io/badge/markdown-000?logo=markdown&logoColor=FFF&style=flat-square"/>
   
 </p>
 
