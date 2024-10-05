@@ -3,7 +3,7 @@
 
 - <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="16"> Estou atualmente trabalhando na [Spacelaxy](https://github.com/spacelaxy)
 
-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="16"> Estou aprendendo atualmente **React, nextJS, e Tauri**
+- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="16"> Estou aprendendo atualmente **React, nextJS, e Tauri**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
