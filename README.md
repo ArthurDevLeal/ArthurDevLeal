@@ -1,18 +1,49 @@
-<h1 align="center">Olá 👋, me chamo Arthur Leal</h1>
-<h3 align="center">Sou estudante de programação há um ano e estou me dedicando ao desenvolvimento web, criando projetos que combinam funcionalidade e estética. Além das habilidades técnicas, tenho facilidade para trabalhar em equipe, comunicar-me eficazmente e resolver problemas. Estou sempre em busca de aprender mais e contribuir para projetos inovadores.</h3>
+<h1 align="center">Olá 👋, me chamo Arthur Leal</h1><br>
+<h3 align="center">Sou desenvolvedor web apaixonado por tecnologia e estou sempre buscando criar projetos que combinam funcionalidade e estética. Além das habilidades técnicas, tenho facilidade para trabalhar em equipe, comunicar-me eficazmente e resolver problemas. Estou sempre em busca de aprender mais e contribuir para projetos inovadores.</h3><br><br>
 
-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="16"> Estou atualmente trabalhando na [Spacelaxy](https://github.com/spacelaxy)
+- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="16"> Atualmente trabalhando na [Spacelaxy](https://github.com/spacelaxy)<br>
+- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="16"> Atualmente estudando **NestJS, Node.js e SQL**<br><br>
 
-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="16"> Estou aprendendo atualmente **React, nextJS, e Tauri**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/arthurlleall1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurlleall1" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthurlleall1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-leal-9a8ab1315/) 
 
-<h3 align="left">Languages and Tools: </h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurdevleal&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arthurdevleal" /></p>
+### 🖥️ Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurdevleal&theme=dark" alt="arthurdevleal" /></p>
+
+
+### 🖥️ Back-end
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)    
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+
+
+
+### 🛠 Others
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) *(Desktop apps)*  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) *(Design UI/UX)*  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)*(API testing)*  
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArthurDevLeal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArthurDevLeal&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDevLeal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=ArthurDevLeal&icon=3&color=1)](https://visitcount.itsvg.in)
