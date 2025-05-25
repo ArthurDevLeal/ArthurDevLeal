@@ -2,7 +2,6 @@
 <h3 align="center">Sou desenvolvedor web apaixonado por tecnologia e estou sempre buscando criar projetos que combinam funcionalidade e estética. Além das habilidades técnicas, tenho facilidade para trabalhar em equipe, comunicar-me eficazmente e resolver problemas. Estou sempre em busca de aprender mais e contribuir para projetos inovadores.</h3><br><br>
 
 - Link para meu <a href="https://www.arthurdevleal.tech/">Portfolio</a>
-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="16"> Atualmente desenvolvendo na [Spacelaxy](https://github.com/spacelaxy)<br>
 - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="16"> Atualmente estudando **Node.js e SQL**<br><br>
 
 
